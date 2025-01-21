@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- ## Preprints -->
+<!-- ## Preprints 
 
 
 <!-- <i>System Machine Learning.</i> <b>SysML 2019</b>.-->
@@ -70,4 +70,4 @@ author_profile: true
 ## 2017
 
 <b>[Multi-Aspect Streaming Tensor Completion](http://qingquansong.github.io/publications/MAST)</b><br><b>Qingquan Song</b>, Xiao Huang, Hancheng Ge, James Caverlee, and Xia Hu. <i>The 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2017</b>. [paper](http://qingquansong.github.io/publications/MAST/files/Qingquan_KDD17.pdf) <!--[code]()-->
-
+-->
