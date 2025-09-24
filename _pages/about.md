@@ -12,7 +12,8 @@ redirect_from:
   <img src="https://qingquansong.github.io/files/qqsong.jpg" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I am currently a staff machine learning engineer @ LinkedIn Core AI.
+* Researcher @ OpenAI pretraining foundation team.
+* Before that I'm a senior staff machine learning engineer @ LinkedIn Core AI.
 * I received my Ph.D. degree in Computer Science in the [Department of Computer Science and Engineering](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu) under the supervision of [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html) in 2021. 
 * Before joining TAMU, I received my B.S. degree in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn) in 2016. 
 * My research interests lie in the general area of data mining and machine learning, particularly in automated machine learning, tensor analysis, and their applications in recommender systems and social networks.
