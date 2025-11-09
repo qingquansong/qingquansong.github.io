@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://qingquansong.github.io/files/qqsong.jpg" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* Researcher @ OpenAI pretraining foundation team.
+* Researcher @ OpenAI foundation team.
 * Before that I'm a senior staff machine learning engineer @ LinkedIn Core AI.
 * I received my Ph.D. degree in Computer Science in the [Department of Computer Science and Engineering](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu) under the supervision of [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html) in 2021. 
 * Before joining TAMU, I received my B.S. degree in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn) in 2016. 
